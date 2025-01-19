@@ -10,7 +10,7 @@
         }
     ],
     "repositories": [
-        { "type": "git", "url": "git@github.com:novuhq/novu-php-legacy.git" }
+        { "type": "git", "url": "https://github.com/novuhq/novu-php-legacy" }
     ],
     "homepage": "https://novu.co",
     "keywords": [
