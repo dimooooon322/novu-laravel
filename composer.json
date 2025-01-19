@@ -9,6 +9,9 @@
             "homepage": "https://github.com/novuhq/novu-laravel"
         }
     ],
+    "repositories": [
+        { "type": "git", "url": "git@github.com:novuhq/novu-php-legacy.git" }
+    ],
     "homepage": "https://novu.co",
     "keywords": [
         "Laravel",
